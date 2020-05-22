@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,kBACF,CAEA,QACE,kBACF","file":"main.c85ff5b0.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n#name{\n  margin-bottom: 2rem;\n}\n\n#search{\n  padding: 3px 1.5rem;\n}"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,kBACF","file":"main.883596ad.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n#name{\n  margin-bottom: 2rem;\n}"]}
