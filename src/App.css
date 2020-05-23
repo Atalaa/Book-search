@@ -1,7 +1,39 @@
+body{
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
 .App {
   text-align: center;
 }
 
 #name{
   margin-bottom: 2rem;
+}
+
+#search{
+  padding: 3px 1.5rem;
+}
+
+form{
+  margin-bottom: 2rem;
+}
+
+.title-book{
+  text-align: left;
+}
+
+.title-book-details{
+  font-weight: bold;
+  font-style: italic;
+}
+.title-book-details2{
+  color: blue;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.categories{
+  color: red;
 }
