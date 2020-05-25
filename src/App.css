@@ -44,6 +44,6 @@ hr{
   margin: 5rem auto;
 }
 
-.title-book:last-child hr{
+.book:last-child hr{
   display:none;
 }

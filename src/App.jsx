@@ -6,7 +6,7 @@ import Books from './Books'
 function App() {
 
   const inputRef = useRef(null);
-  const [book, setBook] = useState();
+  const [book, setBook] = useState("");
   const [result, setResult] = useState([]);  
 
   //initial load only
