@@ -20,15 +20,15 @@ form{
   margin-bottom: 2rem;
 }
 
-.title-book{
+.book{
   text-align: left;
 }
 
-.title-book-details{
+.title-book{
   font-weight: bold;
   font-style: italic;
 }
-.title-book-details2{
+.author{
   color: blue;
   font-weight: normal;
   font-style: normal;
@@ -36,4 +36,14 @@ form{
 
 .categories{
   color: red;
+  font-weight: bold;
+}
+
+hr{
+  width: 50%;
+  margin: 5rem auto;
+}
+
+.title-book:last-child hr{
+  display:none;
 }
